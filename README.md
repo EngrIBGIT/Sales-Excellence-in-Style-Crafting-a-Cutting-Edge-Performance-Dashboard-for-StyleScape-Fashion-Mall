@@ -58,9 +58,13 @@ Ensure sufficient stock of top-selling items, especially women's shoes and dress
 Develop personalized marketing campaigns targeting the growing customer base. Implement loyalty programs to retain customers and encourage repeat purchases.
 
 ## Conclusion
-The implementation of this performance dashboard provides StyleScape Fashion Mall with a robust tool for real-time sales analysis, enabling data-driven decision-making and strategic planning. By focusing on optimizing operational efficiency and improving business decision-making, the dashboard empowers the Regional Sales Manager and the broader sales team to drive sales excellence and enhance overall business performance.
-Visualization and Reporting:
+- The implementation of this performance dashboard provides StyleScape Fashion Mall with a robust tool for real-time sales analysis, enabling data-driven decision-making and strategic planning.
+- By focusing on optimizing operational efficiency and improving business decision-making, the dashboard empowers the Regional Sales Manager and the broader sales team to drive sales excellence and enhance overall business performance.
 
+  ### Link to Project:
+  https://github.com/EngrIBGIT/Sales-Excellence-in-Style-Crafting-a-Cutting-Edge-Performance-Dashboard-for-StyleScape-Fashion-Mall/blob/main/Sales_Excellence_in_Style_StyleScrape_Sales_Performance_Dashboard.pbix
+  
+## Visualization and Reporting:
 ### Interactive Dashboards:
 - Real-time updates on key metrics (total sales, orders, customers, average order value).
 - Dynamic sales trend analysis comparing current and previous weeks.
@@ -71,7 +75,7 @@ Visualization and Reporting:
 - Detailed sales distribution reports for targeted strategy formulation.
 - Inventory and product category performance analysis to guide stock management.
 
-Next Steps:
+### Next Steps:
 1.	Finalize the dashboard design and functionality based on user feedback.
 2.	Train the sales team on how to use the dashboard effectively.
 3.	Continuously monitor and refine the dashboard to ensure it meets evolving business needs.
