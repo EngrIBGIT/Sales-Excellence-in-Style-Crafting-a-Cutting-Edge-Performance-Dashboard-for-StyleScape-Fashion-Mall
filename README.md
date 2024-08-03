@@ -1,0 +1,2 @@
+# Sales-Excellence-in-Style-Crafting-a-Cutting-Edge-Performance-Dashboard-for-StyleScape-Fashion-Mall
+ This project involved mastering Power BI to create interactive dashboards and reports for a Fashion Outlet Mall. I developed data visualization skills and provided crucial insights for decision-makers, focusing on optimizing operational efficiency and improving business decision-making through key performance indicators in the retail industry.
